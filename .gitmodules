@@ -1,0 +1,21 @@
+[submodule "klee"]
+	path = klee
+	url = https://github.com/klee/klee.git
+[submodule "klee-uclibc"]
+	path = klee-uclibc
+	url = https://github.com/klee/klee-uclibc.git
+[submodule "minisat"]
+	path = minisat
+	url = https://github.com/stp/minisat.git
+[submodule "stp"]
+	path = stp
+	url = https://github.com/stp/stp
+[submodule "verilator"]
+	path = verilator
+	url = http://git.veripool.org/git/verilator
+[submodule "whole-program-llvm"]
+	path = whole-program-llvm
+	url = https://github.com/travitch/whole-program-llvm
+[submodule "z3"]
+	path = z3
+	url = https://github.com/Z3Prover/z3.git

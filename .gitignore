@@ -1,0 +1,9 @@
+*~
+*.o
+*.out
+*.swp
+*.pyc
+*.txt
+*.csv
+obj_dir
+resultfiles
